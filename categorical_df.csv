@@ -1,0 +1,659 @@
+,I1,I3,C2_imputed,data_updated,industry_bin
+0,AATI,3674,1.0,0,Manufacturing
+1,ABPI,2834,0.0,0,Manufacturing
+2,ACAD,2834,1.0,0,Manufacturing
+3,ACHN,2834,1.0,0,Manufacturing
+4,ACLI,4492,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+5,ACOM,7379,1.0,0,Services
+6,ACOR,2836,1.0,0,Manufacturing
+7,ACRX,2834,0.0,1,Manufacturing
+8,ACTV,7372,1.0,0,Services
+9,ACW,3714,1.0,0,Manufacturing
+11,ADLS,2854,1.0,0,Manufacturing
+12,ADZA,2835,1.0,0,Manufacturing
+13,AFFY,2834,1.0,0,Manufacturing
+14,AGAM,3845,1.0,0,Manufacturing
+15,AH,7389,1.0,0,Services
+16,AHII,5047,1.0,0,Wholesale Trade
+17,AIMC,3568,1.0,0,Manufacturing
+18,AIRV,3661,1.0,0,Manufacturing
+19,ALGT,4512,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+20,ALIM,2834,1.0,1,Manufacturing
+21,ALJ,2911,1.0,0,Manufacturing
+22,ALLI,8099,1.0,0,Services
+23,ALNY,2834,1.0,0,Manufacturing
+24,ALTU,2836,1.0,0,Manufacturing
+25,ALXA,2834,1.0,0,Manufacturing
+26,AMBA,3674,1.0,0,Manufacturing
+27,AMIS,3674,1.0,0,Manufacturing
+28,AMRC,4931,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+29,ANAC,2834,1.0,0,Manufacturing
+30,ANFI,2000,1.0,0,Manufacturing
+31,ANGI,7379,1.0,0,Services
+32,ANGO,3841,0.0,0,Manufacturing
+33,AONE,3690,1.0,0,Manufacturing
+34,AOSL,3674,1.0,0,Manufacturing
+35,APEI,8221,1.0,0,Services
+36,APKT,3576,1.0,0,Manufacturing
+37,ARAY,3841,1.0,0,Manufacturing
+38,ARBX,7389,1.0,0,Services
+39,ARCL,8200,1.0,0,Services
+40,ARCO,5812,1.0,0,Retail Trade
+41,AREX,1311,1.0,0,Mining
+42,ARII,3743,1.0,0,Manufacturing
+43,ARP,7334,1.0,1,Services
+44,ARST,7372,1.0,0,Services
+45,ARTE,2834,1.0,1,Manufacturing
+46,ARUN,3577,1.0,0,Manufacturing
+47,ASPV,2834,1.0,1,Manufacturing
+48,ATEC,3841,1.0,0,Manufacturing
+49,ATHN,7389,1.0,0,Services
+50,ATRC,3841,1.0,0,Manufacturing
+51,AUXL,2834,1.0,0,Manufacturing
+52,AVAV,3721,1.0,0,Manufacturing
+53,AVEO,2834,1.0,0,Manufacturing
+54,AVGO,3674,1.0,0,Manufacturing
+55,AVNC,2834,1.0,1,Manufacturing
+56,AVR,2869,1.0,0,Manufacturing
+57,AVRX,2834,0.0,0,Manufacturing
+58,AWAY,7389,1.0,0,Services
+59,AWK,4941,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+60,AYR,7359,1.0,0,Services
+61,BAGL,5812,1.0,0,Retail Trade
+62,BAH,7373,1.0,0,Services
+63,BALT,4412,1.0,1,"Transportation, Communications, Electric, Gas and Sanitary service"
+64,BARE,2844,1.0,0,Manufacturing
+65,BAS,1389,1.0,0,Mining
+66,BBBB,7372,1.0,0,Services
+67,BBG,1311,1.0,0,Mining
+68,BBND,3663,1.0,0,Manufacturing
+69,BBRG,5812,1.0,0,Retail Trade
+70,BBW,5945,1.0,0,Retail Trade
+71,BCOV,7372,1.0,0,Services
+72,BDAY,5961,0.0,0,Retail Trade
+73,BDE,1311,0.0,0,Mining
+74,BEAT,8090,1.0,0,Services
+75,BECN,5033,1.0,0,Wholesale Trade
+76,BFAM,8351,1.0,0,Services
+77,BFRM,3841,1.0,0,Manufacturing
+78,BHRT,8731,0.0,1,Services
+79,BIOD,2834,1.0,1,Manufacturing
+80,BIOF,2869,1.0,1,Manufacturing
+81,BKC,5812,1.0,0,Retail Trade
+82,BKRS,5661,0.0,0,Retail Trade
+83,BLMN,5812,1.0,0,Retail Trade
+84,BLOG,7372,1.0,0,Services
+85,BLSW,7372,0.0,0,Services
+87,BMTI,3841,1.0,0,Manufacturing
+88,BNNY,2000,1.0,0,Manufacturing
+89,BODY,5600,1.0,0,Retail Trade
+90,BOX,7359,1.0,0,Services
+91,BPI,8221,1.0,0,Services
+92,BRNC,1381,0.0,0,Mining
+93,BSFT,7372,1.0,0,Services
+94,BTRX,2834,1.0,0,Manufacturing
+95,BUN,5641,0.0,0,Retail Trade
+96,BV,7372,1.0,0,Services
+97,BWLD,5812,0.0,0,Retail Trade
+98,BWTR,4941,0.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+99,BWY,3411,1.0,0,Manufacturing
+100,CAB,5940,1.0,0,Retail Trade
+101,CABG,3841,0.0,1,Manufacturing
+102,CADX,2834,1.0,1,Manufacturing
+103,CALD,7371,1.0,0,Services
+104,CALL,4822,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+105,CALX,3661,1.0,0,Manufacturing
+106,CAP,7359,1.0,1,Services
+107,CARB,7379,1.0,0,Services
+108,CATM,7389,1.0,0,Services
+109,CBEY,4813,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+110,CBOU,5810,1.0,0,Retail Trade
+111,CCO,7312,1.0,0,Services
+112,CDL,4832,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+113,CDM,7311,0.0,1,Services
+114,CE,2673,1.0,0,Manufacturing
+116,CEMP,2834,0.0,1,Manufacturing
+117,CENF,4213,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+118,CERE,100,1.0,0,"Agriculture, Forestry and Fishing"
+119,CF,2870,1.0,0,Manufacturing
+120,CFX,3561,1.0,0,Manufacturing
+121,CGTK,2834,1.0,0,Manufacturing
+122,CHEF,5141,1.0,0,Wholesale Trade
+124,CLAY,7389,1.0,0,Services
+125,CLD,1221,1.0,1,Mining
+126,CLU,2621,1.0,0,Manufacturing
+127,CLUB,7997,1.0,0,Services
+128,CLWR,4899,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+129,CML,7372,1.0,0,Services
+130,CMP,1400,1.0,0,Mining
+131,CNSL,4813,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+132,CNVO,7372,0.0,0,Services
+133,CNVX,2836,1.0,1,Manufacturing
+134,COGT,7373,1.0,0,Services
+135,COLY,2834,1.0,0,Manufacturing
+136,COMV,3822,1.0,0,Manufacturing
+137,CONN,5731,0.0,0,Retail Trade
+138,CONR,3841,1.0,1,Manufacturing
+139,CORT,2834,1.0,1,Manufacturing
+140,CPII,3670,1.0,0,Manufacturing
+141,CPIX,2834,1.0,0,Manufacturing
+142,CPX,1389,1.0,0,Mining
+143,CRDC,3841,0.0,0,Manufacturing
+144,CREL,7372,1.0,0,Services
+145,CRI,2300,1.0,0,Manufacturing
+146,CRMH,6331,1.0,0,"Finance, Insurance and Real Estate"
+147,CROX,3021,1.0,0,Manufacturing
+148,CRU,4412,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+149,CRYO,3841,0.0,0,Manufacturing
+150,CSCD,3825,1.0,0,Manufacturing
+151,CSIQ,3674,1.0,0,Manufacturing
+152,CSTE,3281,1.0,0,Manufacturing
+153,CTCT,7372,1.0,0,Services
+154,CTP,7361,0.0,0,Services
+155,CTRN,5600,1.0,0,Retail Trade
+156,CVGI,3714,1.0,0,Manufacturing
+157,CVI,2911,1.0,0,Manufacturing
+158,CXO,1311,1.0,0,Mining
+159,CYNO,3845,1.0,0,Manufacturing
+160,CYTK,2834,1.0,0,Manufacturing
+161,CZR,7993,1.0,0,Services
+162,DBTK,7372,1.0,0,Services
+163,DCIN,7830,0.0,0,Services
+164,DCP,7389,1.0,0,Services
+165,DDMG,7812,0.0,0,Services
+166,DDUP,3572,1.0,0,Manufacturing
+167,DEEP,1389,1.0,0,Mining
+168,DEIX,3651,1.0,0,Manufacturing
+169,DEX,2741,1.0,0,Manufacturing
+170,DG,5331,1.0,1,Retail Trade
+171,DHX,7319,1.0,0,Services
+172,DIVX,7371,1.0,1,Services
+173,DK,5500,1.0,0,Retail Trade
+174,DLB,"6794, 3861, 3663, 7819",1.0,0,Other
+175,DM,2711,1.0,0,Manufacturing
+176,DMAN,7372,1.0,0,Services
+177,DMD,7379,1.0,1,Services
+178,DMED,3841,0.0,0,Manufacturing
+179,DMND,2090,1.0,0,Manufacturing
+180,DNKN,5810,1.0,0,Retail Trade
+181,DOLE,100,1.0,0,"Agriculture, Forestry and Fishing"
+182,DPZ,5812,1.0,0,Retail Trade
+183,DRC,3511,1.0,0,Manufacturing
+184,DRTX,2834,1.0,1,Manufacturing
+185,DSUP,3315,0.0,0,Manufacturing
+186,DSW,5661,1.0,0,Retail Trade
+187,DTSI,"3651, 6794, 7819",0.0,0,Other
+188,DVAX,2836,1.0,0,Manufacturing
+189,DVOX,7373,1.0,0,Services
+190,DVR,1389,1.0,0,Mining
+191,DWA,7812,1.0,0,Services
+192,DWRE,7372,1.0,0,Services
+193,DWRI,5712,1.0,0,Retail Trade
+194,DXCM,3841,1.0,1,Manufacturing
+195,DYP,3555,1.0,0,Manufacturing
+196,EBS,2834,1.0,0,Manufacturing
+197,ECHO,4731,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+198,ECYT,2834,1.0,0,Manufacturing
+199,EDG,5150,1.0,1,Wholesale Trade
+200,EDMC,8200,1.0,0,Services
+201,EEEE,8200,1.0,0,Services
+202,EGLT,3825,1.0,0,Manufacturing
+204,ELOQ,7372,1.0,0,Services
+205,EM,7374,1.0,0,Services
+206,EMAG,7372,1.0,0,Services
+207,ENPH,3674,1.0,0,Manufacturing
+208,ENSG,8051,0.0,0,Services
+209,ENTA,2834,1.0,0,Manufacturing
+210,ENTR,3674,1.0,0,Manufacturing
+211,ENV,7389,1.0,0,Services
+212,EPAM,7371,1.0,0,Services
+213,EPOC,7375,1.0,0,Services
+214,ERII,3559,1.0,0,Manufacturing
+216,ETRM,3845,1.0,1,Manufacturing
+218,EVVV,3841,1.0,0,Manufacturing
+219,EXA,7372,0.0,0,Services
+220,EXAM,8000,1.0,0,Services
+221,EXLS,541990,1.0,0,Other
+222,EXPR,5600,1.0,0,Retail Trade
+223,EYET,2834,1.0,0,Manufacturing
+224,FACE,2844,1.0,0,Manufacturing
+225,FANG,1311,1.0,0,Mining
+226,FB,7370,1.0,0,Services
+227,FCL,1221,1.0,0,Mining
+228,FFN,7370,0.0,0,Services
+229,FIO,3572,1.0,0,Manufacturing
+230,FIRE,7372,1.0,0,Services
+231,FIVE,5331,1.0,0,Retail Trade
+232,FLT,7389,1.0,0,Services
+233,FLTX,7372,1.0,0,Services
+234,FN,3661,1.0,0,Manufacturing
+235,FNET,3990,0.0,0,Manufacturing
+236,FOLD,2834,1.0,1,Manufacturing
+237,FOXH,3841,1.0,0,Manufacturing
+238,FRAN,5632,1.0,0,Retail Trade
+239,FRP,4813,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+240,FSL,3674,1.0,0,Manufacturing
+241,FSLR,3674,1.0,0,Manufacturing
+242,FSTC,7319,1.0,0,Services
+243,FTD,7389,1.0,1,Services
+244,FTNT,3577,1.0,0,Manufacturing
+245,FUQI,3911,0.0,0,Manufacturing
+246,G,541990,1.0,0,Other
+247,GASS,4412,0.0,1,"Transportation, Communications, Electric, Gas and Sanitary service"
+248,GEVO,8731,1.0,0,Services
+249,GGL,3583,1.0,0,Manufacturing
+250,GGS,1382,1.0,0,Mining
+251,GGXY,5940,1.0,0,Retail Trade
+252,GHDX,8071,1.0,0,Services
+253,GKIS,2015,1.0,0,Manufacturing
+254,GLOG,4400,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+255,GLUU,7371,1.0,0,Services
+256,GMAN,5600,1.0,0,Retail Trade
+257,GMED,3841,1.0,0,Manufacturing
+258,GMET,1311,1.0,0,Mining
+259,GMTN,5940,1.0,0,Retail Trade
+260,GNMK,3841,0.0,0,Manufacturing
+261,GNOM,8731,1.0,0,Services
+262,GNRC,3621,1.0,0,Manufacturing
+263,GOLF,5940,1.0,0,Retail Trade
+264,GOOG,7375,1.0,0,Services
+265,GRPN,7379,1.0,0,Services
+266,GSAT,4899,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+267,GSE,3081,0.0,1,Manufacturing
+269,GTEC,8711,0.0,0,Services
+270,GTOP,2836,0.0,1,Manufacturing
+271,GTXI,2834,1.0,1,Manufacturing
+272,GUID,7372,1.0,0,Services
+273,GWAY,7373,1.0,0,Services
+274,GXDX,8071,1.0,0,Services
+275,HCA,8062,1.0,0,Services
+276,HCCI,4955,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+277,HEES,7350,1.0,1,Services
+278,HEM,3841,1.0,0,Manufacturing
+279,HERO,1381,1.0,1,Mining
+280,HGG,5731,1.0,0,Retail Trade
+281,HIRE,7374,1.0,0,Services
+282,HITT,3674,1.0,0,Manufacturing
+283,HLYS,3140,1.0,0,Manufacturing
+284,HNSN,3842,1.0,1,Manufacturing
+285,HOO,4941,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+287,HPTX,2834,0.0,1,Manufacturing
+288,HPY,6153,1.0,0,"Finance, Insurance and Real Estate"
+289,HRZ,4400,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+290,HS,6324,1.0,0,"Finance, Insurance and Real Estate"
+291,HTZ,7350,1.0,0,Services
+292,HUN,2800,1.0,0,Manufacturing
+293,HURN,8742,1.0,0,Services
+294,IBI,5074,1.0,0,Wholesale Trade
+295,ICFI,8742,1.0,0,Services
+296,ICPT,2834,1.0,0,Manufacturing
+297,ICXT,3826,1.0,0,Manufacturing
+298,IFO,5065,0.0,0,Wholesale Trade
+299,IKAN,3661,1.0,0,Manufacturing
+300,IL,7374,1.0,0,Services
+301,ILSE,3845,1.0,0,Manufacturing
+302,IMI,3674,1.0,0,Manufacturing
+303,IMMC,3826,1.0,0,Manufacturing
+304,INCX,7389,0.0,0,Services
+305,INET,7389,1.0,0,Services
+306,INHX,2836,1.0,0,Manufacturing
+307,INPC,4899,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+308,INVN,3674,1.0,0,Manufacturing
+309,INWK,2790,1.0,0,Manufacturing
+310,IOMI,2834,1.0,1,Manufacturing
+311,IPAS,7389,1.0,0,Services
+312,IPCM,8090,1.0,0,Services
+313,IPDN,7370,0.0,0,Services
+314,IPGP,3674,1.0,0,Manufacturing
+315,IPHI,3674,1.0,0,Manufacturing
+316,IPHS,5160,1.0,0,Wholesale Trade
+317,IPI,1400,1.0,0,Mining
+318,IPMT,7389,1.0,0,Services
+319,IRWD,2834,1.0,0,Manufacturing
+320,ISLN,3572,1.0,0,Manufacturing
+321,ITC,4911,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+322,ITLN,3674,1.0,0,Manufacturing
+323,IVII,7372,0.0,0,Services
+324,IWA,4813,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+325,JOR,5051,1.0,0,Wholesale Trade
+326,KAR,5010,1.0,0,Wholesale Trade
+327,KBAY,7371,1.0,0,Services
+328,KCI,2590,1.0,0,Manufacturing
+329,KEYW,7373,0.0,0,Services
+331,KIOR,2860,1.0,1,Manufacturing
+333,KNOL,4812,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+334,KNTA,7372,0.0,0,Services
+335,KNXA,7372,0.0,0,Services
+336,KONA,5812,0.0,0,Retail Trade
+337,KORS,3100,1.0,0,Manufacturing
+338,KRA,2821,1.0,0,Manufacturing
+339,LDIS,3674,1.0,0,Manufacturing
+340,LGBT,7373,0.0,0,Services
+341,LHCG,8082,0.0,0,Services
+342,LIMC,4581,0.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+343,LIMS,7372,0.0,0,Services
+344,LINC,8200,1.0,0,Services
+345,LLNW,7389,1.0,0,Services
+346,LMAT,3841,1.0,0,Manufacturing
+347,LNKD,7370,1.0,0,Services
+348,LOCK,7374,1.0,0,Services
+349,LOGM,7372,1.0,0,Services
+350,LPI,1311,1.0,0,Mining
+351,LPR,1311,1.0,0,Mining
+352,LQDT,7389,1.0,0,Services
+353,LTM,7997,1.0,0,Services
+354,LULU,5600,1.0,0,Retail Trade
+355,LUNA,8731,0.0,0,Services
+356,LVS,7011,1.0,0,Services
+358,MA,7389,1.0,0,Services
+359,MACK,2834,1.0,0,Manufacturing
+360,MAKO,3842,1.0,0,Manufacturing
+361,MANU,7941,1.0,0,Services
+362,MAPP,2834,1.0,1,Manufacturing
+363,MASI,3845,1.0,0,Manufacturing
+364,MATH,3674,0.0,0,Manufacturing
+365,MBLX,8731,1.0,0,Services
+366,MBRX,2834,1.0,0,Manufacturing
+367,MCP,3390,1.0,0,Manufacturing
+368,MDAS,7374,1.0,0,Services
+369,MDMD,7389,1.0,0,Services
+370,MDSO,7389,1.0,0,Services
+371,MEDE,7371,1.0,0,Services
+372,MEDH,7374,1.0,0,Services
+373,MELA,3841,0.0,1,Manufacturing
+374,MEMS,3674,1.0,0,Manufacturing
+375,MEND,3841,0.0,0,Manufacturing
+376,MFLX,3672,0.0,0,Manufacturing
+377,MG,8711,1.0,0,Services
+378,MHGC,7011,1.0,0,Services
+379,MIPI,2834,0.0,0,Manufacturing
+380,MJN,2000,1.0,0,Manufacturing
+381,MKTG,7372,1.0,0,Services
+382,MLNX,3674,1.0,0,Manufacturing
+383,MM,7311,1.0,0,Services
+384,MNKD,2834,1.0,1,Manufacturing
+385,MNTA,2836,1.0,0,Manufacturing
+386,MOH,6324,1.0,0,"Finance, Insurance and Real Estate"
+387,MOTR,3663,1.0,0,Manufacturing
+388,MOTV,7372,1.0,0,Services
+389,MPO,1311,1.0,0,Mining
+390,MPWR,3674,1.0,0,Manufacturing
+391,MRC,5084,1.0,0,Wholesale Trade
+392,MRIN,7372,1.0,0,Services
+393,MRT,5812,0.0,0,Retail Trade
+394,MTDR,1311,1.0,0,Mining
+395,MTSI,3674,1.0,0,Manufacturing
+396,MUSA,5051,1.0,0,Wholesale Trade
+397,MXL,3674,1.0,0,Manufacturing
+398,MYOG,2834,1.0,0,Manufacturing
+399,N,7372,1.0,0,Services
+402,NCIT,7373,0.0,0,Services
+403,NCMI,7319,1.0,0,Services
+404,NETL,3674,1.0,0,Manufacturing
+405,NEXT,3825,1.0,0,Manufacturing
+406,NGSX,2834,1.0,1,Manufacturing
+407,NGVC,5411,0.0,0,Retail Trade
+408,NHWK,8090,1.0,0,Services
+409,NILE,5944,1.0,0,Retail Trade
+411,NLC,2890,1.0,0,Manufacturing
+412,NLSN,7374,1.0,1,Services
+413,NOR,3334,1.0,0,Manufacturing
+414,NOW,7372,1.0,0,Services
+415,NPTN,3674,1.0,0,Manufacturing
+417,NSE,4899,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+418,NSPH,2835,1.0,0,Manufacturing
+419,NSR,7375,1.0,0,Services
+420,NSTC,7371,1.0,0,Services
+421,NSTR,3845,1.0,1,Manufacturing
+422,NTGR,3577,1.0,0,Manufacturing
+423,NURO,3841,1.0,0,Manufacturing
+424,NVT,7372,1.0,0,Services
+425,NXPI,3674,1.0,0,Manufacturing
+426,NXST,4833,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+427,NXTM,3845,1.0,0,Manufacturing
+428,NZ,3571,1.0,0,Manufacturing
+429,OAS,1311,1.0,0,Mining
+430,OCLS,3841,0.0,0,Manufacturing
+431,OCNF,4412,1.0,1,"Transportation, Communications, Electric, Gas and Sanitary service"
+432,ODMO,5944,1.0,0,Retail Trade
+433,OESX,3646,1.0,0,Manufacturing
+434,OLED,8731,0.0,0,Services
+435,OMER,2834,1.0,0,Manufacturing
+436,OMPI,2834,1.0,0,Manufacturing
+437,OMRI,2836,1.0,0,Manufacturing
+438,ONE,7389,1.0,0,Services
+439,OPTM,3674,1.0,0,Manufacturing
+440,OPTR,2834,1.0,0,Manufacturing
+441,OPTT,3629,1.0,0,Manufacturing
+442,OPXT,3674,1.0,0,Manufacturing
+443,ORA,4911,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+444,ORBC,4899,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+445,OREX,2834,1.0,0,Manufacturing
+446,OSIR,2836,0.0,0,Manufacturing
+447,OVNT,4213,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+448,OWW,4700,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+449,P,7370,1.0,0,Services
+450,PA,4899,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+451,PANW,3577,1.0,0,Manufacturing
+452,PAR,3572,1.0,0,Manufacturing
+453,PAY,3578,1.0,0,Manufacturing
+454,PBH,2834,1.0,1,Manufacturing
+455,PCRX,2834,0.0,0,Manufacturing
+456,PCS,4812,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+457,PEC,1731,1.0,0,Construction
+458,PFMT,7380,1.0,0,Services
+459,PFWD,7389,1.0,0,Services
+460,PGTI,3442,1.0,0,Manufacturing
+461,PHRM,2834,1.0,0,Manufacturing
+462,PINN,1311,1.0,0,Mining
+463,PLOW,3531,1.0,0,Manufacturing
+464,PLTE,3312,0.0,0,Manufacturing
+465,PMII,3841,1.0,0,Manufacturing
+466,PODD,3841,1.0,0,Manufacturing
+467,PPO,3999,1.0,0,Manufacturing
+468,PRAI,8731,1.0,0,Services
+469,PRGN,4412,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+470,PRLB,3440,1.0,0,Manufacturing
+471,PRMW,5149,0.0,0,Wholesale Trade
+472,PROJ,7372,1.0,0,Services
+473,PRSC,8322,0.0,0,Services
+474,PRSS,5900,1.0,0,Retail Trade
+475,PRTS,5531,1.0,1,Retail Trade
+476,PRVD,5961,0.0,0,Retail Trade
+477,PSMI,3674,1.0,0,Manufacturing
+478,PSPT,7389,0.0,0,Services
+479,PTEK,3990,0.0,1,Manufacturing
+480,PUMP,3842,1.0,0,Manufacturing
+481,QLIK,7372,1.0,0,Services
+482,QLTY,4213,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+483,QLYS,7372,1.0,0,Services
+484,QNST,7389,1.0,0,Services
+485,QXM,3661,1.0,0,Manufacturing
+486,RA,4011,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+487,RACK,3571,1.0,0,Manufacturing
+488,RAIL,3743,1.0,0,Manufacturing
+489,RBCN,3674,1.0,0,Manufacturing
+491,RDYN,2834,1.0,0,Manufacturing
+492,REDE,5960,0.0,0,Retail Trade
+493,REGI,2860,1.0,0,Manufacturing
+494,REST,3842,1.0,0,Manufacturing
+495,REXX,1311,0.0,0,Mining
+497,RHEO,3841,1.0,0,Manufacturing
+498,RKUS,3577,1.0,0,Manufacturing
+499,RLD,"3663, 3861, 6794",1.0,0,Other
+500,RLOC,7311,1.0,0,Services
+501,RNDY,5411,1.0,0,Retail Trade
+502,RNET,4899,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+504,RNOW,7372,1.0,0,Services
+505,ROC,2800,1.0,0,Manufacturing
+506,ROLL,3562,1.0,0,Manufacturing
+507,ROSG,2834,1.0,1,Manufacturing
+508,ROX,2080,0.0,0,Manufacturing
+509,RP,7372,1.0,0,Services
+510,RRR,7359,1.0,0,Services
+511,RRST,4899,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+512,RRTS,4731,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+513,RST,7372,1.0,0,Services
+514,RUE,5600,1.0,0,Retail Trade
+515,RVBD,3576,1.0,0,Manufacturing
+516,SAI,7373,1.0,0,Services
+517,SAVE,4512,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+518,SB,4412,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+519,SCMP,2834,0.0,0,Manufacturing
+520,SCOP,3669,1.0,0,Manufacturing
+521,SCOR,7389,1.0,0,Services
+522,SCTY,4931,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+523,SDXC,4813,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+524,SEM,8060,1.0,0,Services
+525,SENO,3841,1.0,0,Manufacturing
+526,SFLY,7384,1.0,0,Services
+527,SFSF,7372,1.0,0,Services
+528,SGOC,3663,0.0,0,Manufacturing
+529,SGTL,3674,1.0,0,Manufacturing
+530,SGXP,2834,1.0,0,Manufacturing
+531,SHMR,3851,1.0,0,Manufacturing
+532,SHO,7011,1.0,0,Services
+533,SHOR,3661,1.0,0,Manufacturing
+534,SIRF,3812,1.0,0,Manufacturing
+535,SIRT,2834,1.0,1,Manufacturing
+536,SLCA,1446,1.0,0,Mining
+537,SLRY,7372,1.0,0,Services
+538,SMA,3842,1.0,0,Manufacturing
+539,SMBI,8011,1.0,0,Services
+540,SMCI,3571,1.0,0,Manufacturing
+541,SN,1311,0.0,0,Mining
+542,SNCR,7371,1.0,0,Services
+543,SNMX,8731,1.0,0,Services
+544,SNTA,2834,1.0,1,Manufacturing
+545,SOLR,3674,1.0,0,Manufacturing
+546,SOMX,2834,1.0,1,Manufacturing
+547,SPLK,7372,1.0,0,Services
+548,SPWR,3674,1.0,0,Manufacturing
+549,SQI,7372,0.0,0,Services
+550,SREV,7380,1.0,0,Services
+551,SRVY,8742,1.0,0,Services
+552,SSNC,7372,1.0,0,Services
+553,SSNI,3576,1.0,0,Manufacturing
+554,SSTK,7389,1.0,0,Services
+555,ST,3823,1.0,0,Manufacturing
+556,STAK,3674,1.0,0,Manufacturing
+557,STAR,3663,1.0,0,Manufacturing
+558,STNG,4412,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+559,STRI,3081,1.0,0,Manufacturing
+561,STXS,3845,1.0,0,Manufacturing
+562,SUSS,5412,1.0,0,Retail Trade
+563,SVR,4899,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+564,SWFT,4213,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+565,SWI,7372,1.0,0,Services
+566,SWSI,1389,0.0,0,Mining
+567,SXC,3312,1.0,0,Manufacturing
+568,SXE,4922,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+569,SZYM,2860,1.0,1,Manufacturing
+570,TARG,2834,1.0,1,Manufacturing
+571,TAST,5812,1.0,0,Retail Trade
+572,TBSI,4412,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+573,TDG,3728,1.0,0,Manufacturing
+574,TEA,5499,1.0,0,Retail Trade
+575,TEU,4412,1.0,1,"Transportation, Communications, Electric, Gas and Sanitary service"
+576,TFM,5411,1.0,0,Retail Trade
+577,TGH,7359,1.0,0,Services
+578,THLD,2834,1.0,1,Manufacturing
+579,THR,3629,1.0,0,Manufacturing
+580,THRM,3845,1.0,0,Manufacturing
+581,THRX,2834,1.0,0,Manufacturing
+582,TIS,2621,0.0,0,Manufacturing
+583,TITN,5080,0.0,0,Wholesale Trade
+584,TLEO,7372,1.0,0,Services
+585,TLVT,7373,1.0,0,Services
+586,TMH,8099,1.0,0,Services
+587,TNAV,7379,1.0,0,Services
+588,TNDM,3841,1.0,0,Manufacturing
+589,TNK,4400,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+590,TOWR,3714,1.0,0,Manufacturing
+591,TRAK,7373,1.0,0,Services
+592,TRBN,2834,1.0,0,Manufacturing
+593,TRCA,2834,1.0,1,Manufacturing
+594,TRFC,7310,1.0,0,Services
+595,TRGT,2834,1.0,0,Manufacturing
+596,TRLA,7379,1.0,0,Services
+598,TRS,3452,1.0,0,Manufacturing
+599,TRW,3714,1.0,1,Manufacturing
+600,TRX,2810,1.0,0,Manufacturing
+601,TRXI,7374,1.0,0,Services
+602,TSLA,3711,1.0,0,Manufacturing
+603,TSON,3841,1.0,0,Manufacturing
+604,TSRA,3674,1.0,0,Manufacturing
+605,TSRO,2834,1.0,1,Manufacturing
+606,TSRX,2834,1.0,0,Manufacturing
+607,TTGT,7389,1.0,0,Services
+608,TTPH,2834,1.0,0,Manufacturing
+609,TTPY,3845,1.0,0,Manufacturing
+610,TUMI,3100,1.0,0,Manufacturing
+611,TWLL,3674,1.0,0,Manufacturing
+612,TXRH,5812,1.0,0,Retail Trade
+613,TYPE,7371,1.0,0,Services
+616,UACL,4213,0.0,1,"Transportation, Communications, Electric, Gas and Sanitary service"
+617,UAPH,2875,1.0,0,Manufacturing
+618,UBNT,3663,1.0,0,Manufacturing
+619,UNCA,7372,1.0,0,Services
+620,UPG,"7389, 5063",0.0,0,Other
+621,USBE,2860,1.0,0,Manufacturing
+622,V,7389,1.0,0,Services
+623,VCC,3559,0.0,1,Manufacturing
+624,VCG,4813,1.0,1,"Transportation, Communications, Electric, Gas and Sanitary service"
+625,VCRA,3669,1.0,0,Manufacturing
+626,VG,4813,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+627,VIAC,8731,1.0,0,Services
+628,VITC,7389,0.0,0,Services
+629,VLCM,2300,0.0,0,Manufacturing
+630,VLRX,2834,1.0,0,Manufacturing
+631,VM,4812,1.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+632,VNDA,2834,1.0,1,Manufacturing
+633,VNTV,7389,1.0,0,Services
+634,VNUS,3845,1.0,0,Manufacturing
+635,VOCS,7372,1.0,0,Services
+636,VOLC,3845,1.0,0,Manufacturing
+637,VPRT,2750,1.0,0,Manufacturing
+638,VQ,1311,1.0,0,Mining
+639,VRA,3171,1.0,0,Manufacturing
+640,VRAD,8090,1.0,0,Services
+641,VRAZ,7373,1.0,0,Services
+642,VRGY,3825,1.0,0,Manufacturing
+643,VRSK,7374,1.0,0,Services
+644,VRTU,7371,1.0,0,Services
+645,VSE,2860,1.0,0,Manufacturing
+646,VSI,5400,1.0,0,Retail Trade
+647,VSTM,2834,1.0,1,Manufacturing
+648,VTUS,2834,0.0,1,Manufacturing
+649,WAGE,8742,0.0,0,Services
+650,WAIR,3720,1.0,0,Manufacturing
+651,WBMD,7375,1.0,0,Services
+652,WCAA,4953,0.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+653,WCG,6324,1.0,0,"Finance, Insurance and Real Estate"
+654,WCRX,2834,1.0,0,Manufacturing
+655,WDAY,7372,1.0,1,Services
+656,WIFI,7389,1.0,0,Services
+657,WLDN,8711,0.0,0,Services
+658,WLK,2869,1.0,0,Manufacturing
+659,WLL,1311,1.0,0,Mining
+660,WLSC,7359,1.0,0,Services
+661,WMG,7929,1.0,0,Services
+662,WNR,2911,1.0,0,Manufacturing
+663,WOLF,7011,1.0,0,Services
+664,WSSI,7372,0.0,0,Services
+665,WSTC,7389,1.0,0,Services
+666,WTI,1311,1.0,0,Mining
+667,XCYT,2834,0.0,0,Manufacturing
+668,XGEN,2835,1.0,0,Manufacturing
+669,XPRT,8742,1.0,0,Services
+670,XRM,2221,1.0,0,Manufacturing
+671,XTNT,3841,1.0,1,Manufacturing
+672,XTXI,1311,0.0,1,Mining
+673,Z,7389,1.0,0,Services
+674,ZBB,4911,0.0,0,"Transportation, Communications, Electric, Gas and Sanitary service"
+676,ZINC,3341,1.0,0,Manufacturing
+677,ZIP,7514,1.0,0,Services
+678,ZLTQ,3845,1.0,0,Manufacturing
+679,ZSTN,3663,0.0,0,Manufacturing
+680,ZUMZ,5600,1.0,0,Retail Trade
+681,ZZ,2510,1.0,0,Manufacturing
